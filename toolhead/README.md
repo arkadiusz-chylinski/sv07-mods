@@ -164,6 +164,5 @@ The higher thermal capacity of the Dragon HF hotend also enables higher flow rat
 
 ## Media
 
-Photos of the upgraded toolhead and printer assembly are provided in this repository.
-CAD models of the modified parts are also included for reference.
+<img width="377" height="493" alt="obraz" src="https://github.com/user-attachments/assets/05172a47-04ec-4092-ba2d-2f77b73b55e4" />
 
